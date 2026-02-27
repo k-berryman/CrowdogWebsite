@@ -947,6 +947,31 @@ a {
   width: auto;
   display: inline-block;
 }
+.cid-vcrVeV7h0a {
+  padding-top: 1.5rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-vcrVeV7h0a .container-fluid {
+  max-width: 100%;
+  padding: 0;
+}
+.cid-vcrVeV7h0a MARQUEE {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-vcrVeV7h0a .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vcrVeV7h0a .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-rJ1PL9qKEd {
   padding-top: 150px;
   padding-bottom: 0px;
